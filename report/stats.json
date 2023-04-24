@@ -1,0 +1,1136 @@
+{
+  "hash": "4af99acfdc75b6be4375",
+  "version": "5.66.0",
+  "time": 343,
+  "builtAt": 1682334374890,
+  "publicPath": "auto",
+  "outputPath": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/dist",
+  "assetsByChunkName": {
+    "main": [
+      "main.bundle.css",
+      "main.bundle.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "index.html",
+      "size": 7748,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "copied": true,
+        "sourceFilename": "src/index.html",
+        "size": 7748
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "main.bundle.js",
+      "size": 7427,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "main.bundle.js.map"
+        },
+        "size": 7427
+      },
+      "chunkNames": [
+        "main"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "sourceMap",
+          "name": "main.bundle.js.map",
+          "size": 7234,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "development": true,
+            "size": 7234
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [
+            "main"
+          ],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [
+            "main"
+          ],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        "main"
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "main.bundle.css",
+      "size": 1384,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "related": {
+          "sourceMap": "main.bundle.css.map"
+        },
+        "size": 1384
+      },
+      "chunkNames": [
+        "main"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "sourceMap",
+          "name": "main.bundle.css.map",
+          "size": 1043,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "development": true,
+            "size": 1043
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [
+            "main"
+          ],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [
+            "main"
+          ],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        "main"
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "manifest.json",
+      "size": 1244,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "copied": true,
+        "sourceFilename": "manifest.json",
+        "size": 1244
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "debug.json",
+      "size": 46,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "copied": true,
+        "sourceFilename": "debug.json",
+        "size": 46
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 6163,
+      "sizes": {
+        "javascript": 5053,
+        "css/mini-extract": 831,
+        "runtime": 279
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.bundle.css",
+        "main.bundle.js"
+      ],
+      "auxiliaryFiles": [
+        "main.bundle.css.map",
+        "main.bundle.js.map"
+      ],
+      "hash": "12f4baec3495132549ee",
+      "childrenByOrder": {},
+      "id": "main",
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/esm",
+          "layer": null,
+          "size": 5003,
+          "sizes": {
+            "javascript": 5003
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+          "name": "./src/index.js",
+          "nameForCondition": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 2,
+          "postOrderIndex": 2,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./src/index.js",
+          "issuerId": null,
+          "chunks": [
+            "main"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./src/index.js",
+              "loc": "main",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 50,
+          "sizes": {
+            "javascript": 50
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "name": "./src/styles.css",
+          "nameForCondition": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "identifier": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+              "name": "./src/index.js",
+              "id": "./src/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./src/styles.css",
+          "issuerId": "./src/index.js",
+          "chunks": [
+            "main"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "resolvedModuleIdentifier": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./styles.css",
+              "loc": "18:0-22",
+              "moduleId": "./src/index.js",
+              "resolvedModuleId": "./src/index.js"
+            }
+          ],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "css/mini-extract",
+          "size": 831,
+          "sizes": {
+            "css/mini-extract": 831
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "css|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css|0",
+          "name": "css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "nameForCondition": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "index": 2,
+          "preOrderIndex": 2,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "issuerName": "./src/styles.css",
+          "issuerPath": [
+            {
+              "identifier": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+              "name": "./src/index.js",
+              "id": "./src/index.js"
+            },
+            {
+              "identifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+              "name": "./src/styles.css",
+              "id": "./src/styles.css"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": "./src/styles.css",
+          "chunks": [
+            "main"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+              "module": "./src/styles.css",
+              "moduleName": "./src/styles.css",
+              "resolvedModuleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+              "resolvedModule": "./src/styles.css",
+              "type": "unknown",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "moduleId": "./src/styles.css",
+              "resolvedModuleId": "./src/styles.css"
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [],
+          "depth": 2
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 279,
+          "sizes": {
+            "runtime": 279
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/make namespace object",
+          "name": "webpack/runtime/make namespace object",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "main"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./src/index.js"
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "type": "module",
+      "moduleType": "javascript/esm",
+      "layer": null,
+      "size": 5003,
+      "sizes": {
+        "javascript": 5003
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+      "name": "./src/index.js",
+      "nameForCondition": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+      "index": 0,
+      "preOrderIndex": 0,
+      "index2": 2,
+      "postOrderIndex": 2,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "./src/index.js",
+      "issuerId": null,
+      "chunks": [
+        "main"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./src/index.js",
+          "loc": "main",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 50,
+      "sizes": {
+        "javascript": 50
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+      "name": "./src/styles.css",
+      "nameForCondition": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+      "index": 1,
+      "preOrderIndex": 1,
+      "index2": 1,
+      "postOrderIndex": 1,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "identifier": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+          "name": "./src/index.js",
+          "id": "./src/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "./src/styles.css",
+      "issuerId": "./src/index.js",
+      "chunks": [
+        "main"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "resolvedModuleIdentifier": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./styles.css",
+          "loc": "18:0-22",
+          "moduleId": "./src/index.js",
+          "resolvedModuleId": "./src/index.js"
+        }
+      ],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "css/mini-extract",
+      "size": 831,
+      "sizes": {
+        "css/mini-extract": 831
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "css|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css|0",
+      "name": "css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+      "nameForCondition": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+      "index": 2,
+      "preOrderIndex": 2,
+      "index2": 0,
+      "postOrderIndex": 0,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+      "issuerName": "./src/styles.css",
+      "issuerPath": [
+        {
+          "identifier": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+          "name": "./src/index.js",
+          "id": "./src/index.js"
+        },
+        {
+          "identifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "name": "./src/styles.css",
+          "id": "./src/styles.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": "./src/styles.css",
+      "chunks": [
+        "main"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "module": "./src/styles.css",
+          "moduleName": "./src/styles.css",
+          "resolvedModuleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "resolvedModule": "./src/styles.css",
+          "type": "unknown",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "moduleId": "./src/styles.css",
+          "resolvedModuleId": "./src/styles.css"
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 2285,
+      "sizes": {
+        "javascript": 2285
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+      "name": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+      "nameForCondition": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+      "issuerName": "./src/styles.css",
+      "issuerPath": [
+        {
+          "identifier": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+          "name": "./src/index.js",
+          "id": "./src/index.js"
+        },
+        {
+          "identifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "name": "./src/styles.css",
+          "id": "./src/styles.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": "./src/styles.css",
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "loader import",
+          "active": true,
+          "explanation": "",
+          "userRequest": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css.webpack[javascript/auto]!=!!!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "loc": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css.webpack[javascript/auto]!=!!!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 2318,
+      "sizes": {
+        "javascript": 2318
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/runtime/api.js",
+      "name": "./node_modules/css-loader/dist/runtime/api.js",
+      "nameForCondition": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/runtime/api.js",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+      "issuerName": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+      "issuerPath": [
+        {
+          "identifier": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+          "name": "./src/index.js",
+          "id": "./src/index.js"
+        },
+        {
+          "identifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "name": "./src/styles.css",
+          "id": "./src/styles.css"
+        },
+        {
+          "identifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "name": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "module": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "moduleName": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "resolvedModuleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "resolvedModule": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
+          "loc": "3:0-89",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "module": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "moduleName": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "resolvedModuleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "resolvedModule": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
+          "loc": "4:30-57",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/runtime/api.js",
+          "module": "./node_modules/css-loader/dist/runtime/api.js",
+          "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
+          "resolvedModuleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/runtime/api.js",
+          "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "7:0-14",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 7:0-14"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 688,
+      "sizes": {
+        "javascript": 688
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/runtime/sourceMaps.js",
+      "name": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+      "nameForCondition": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/runtime/sourceMaps.js",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+      "issuerName": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+      "issuerPath": [
+        {
+          "identifier": "javascript/esm|/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/index.js",
+          "name": "./src/index.js",
+          "id": "./src/index.js"
+        },
+        {
+          "identifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "name": "./src/styles.css",
+          "id": "./src/styles.css"
+        },
+        {
+          "identifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "name": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "module": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "moduleName": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "resolvedModuleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "resolvedModule": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "loc": "2:0-106",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "module": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "moduleName": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "resolvedModuleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/src/styles.css",
+          "resolvedModule": "./src/styles.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/styles.css",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "loc": "4:58-95",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "module": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "moduleName": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "resolvedModuleIdentifier": "/Users/asshukla/Desktop/JavaScript learning/swc-integration-plugin/node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "resolvedModule": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "3:0-14",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 3:0-14"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 302,
+      "sizes": {
+        "runtime": 302
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/compat get default export",
+      "name": "webpack/runtime/compat get default export",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 313,
+      "sizes": {
+        "runtime": 313
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/define property getters",
+      "name": "webpack/runtime/define property getters",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 103,
+      "sizes": {
+        "runtime": 103
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 279,
+      "sizes": {
+        "runtime": 279
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/make namespace object",
+      "name": "webpack/runtime/make namespace object",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 279,
+      "sizes": {
+        "runtime": 279
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/make namespace object",
+      "name": "webpack/runtime/make namespace object",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "main"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    }
+  ],
+  "entrypoints": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        "main"
+      ],
+      "assets": [
+        {
+          "name": "main.bundle.css",
+          "size": 1384
+        },
+        {
+          "name": "main.bundle.js",
+          "size": 7427
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 8811,
+      "auxiliaryAssets": [
+        {
+          "name": "main.bundle.css.map",
+          "size": 1043
+        },
+        {
+          "name": "main.bundle.js.map",
+          "size": 7234
+        }
+      ],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 8277,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        "main"
+      ],
+      "assets": [
+        {
+          "name": "main.bundle.css",
+          "size": 1384
+        },
+        {
+          "name": "main.bundle.js",
+          "size": 7427
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 8811,
+      "auxiliaryAssets": [
+        {
+          "name": "main.bundle.css.map",
+          "size": 1043
+        },
+        {
+          "name": "main.bundle.js.map",
+          "size": 7234
+        }
+      ],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 8277,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "errors": [],
+  "errorsCount": 0,
+  "warnings": [],
+  "warningsCount": 0
+}
